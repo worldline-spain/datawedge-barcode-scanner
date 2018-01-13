@@ -3,4 +3,5 @@
     <string name="decoded_by">Decoded by:</string>
     <string name="code">Code:</string>
     <string name="type">Type:</string>
+    <string name="soft_trigger">Soft trigger</string>
 </resources>
