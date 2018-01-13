@@ -92,6 +92,9 @@ That's all! Enjoy it!
 # Contributing to the project
 Feel free to report any issues or suggest new features.
 
+# Thanks
+Special thanks @darryncampbell, his samples look really nice and help us to create the library :)
+
 # License
 Copyright 2018 Worldline Iberia
 
