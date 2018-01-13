@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun registerListeners() {
-
+        softTrigger.setOnClickListener { dataWedge.startSoftScan() }
     }
 
     private fun handleScanData(scanData: ScanData) {
