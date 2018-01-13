@@ -2,6 +2,8 @@
 
 Hello! This library will help you to add Zebra barcode support to your app!!
 
+<img src="https://github.com/worldline-spain/datawedge-barcode-scanner/blob/master/art/demo.gif" width="250" />
+
 # How to import
 
 WIP
