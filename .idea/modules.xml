@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataWedge.iml" filepath="$PROJECT_DIR$/DataWedge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datawedge-barcode-scanner/datawedge-barcode-scanner.iml" filepath="$PROJECT_DIR$/datawedge-barcode-scanner/datawedge-barcode-scanner.iml" />
     </modules>
   </component>
 </project>
